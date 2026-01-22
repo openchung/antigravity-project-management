@@ -1,0 +1,5 @@
+{
+  "name": "AI Project Maestro",
+  "description": "An intelligent project management platform that uses AI to analyze requirements, allocate resources, and generate interactive Gantt charts and task boards.",
+  "requestFramePermissions": []
+}
